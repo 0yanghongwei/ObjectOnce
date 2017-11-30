@@ -1,2 +1,0 @@
-# ObjectOnce
-My once
